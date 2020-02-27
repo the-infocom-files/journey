@@ -178,7 +178,7 @@ D .TMP " still trapped inside the darkened hole." CR CR>
 with my roommate here, if you know what I mean!\"" CR CR>
 		      <TELL
 "As " <I/WE> " prepared to leave, " D ,HOLE-VICTIM " screamed loudly, and "
-<I/WE> " heard nothing further from within the hole. In all likelyhood, "
+<I/WE> " heard nothing further from within the hole. In all likelihood, "
 D ,HOLE-VICTIM " was dead. ">
 		      <COND (<EQUAL? .TMP ,PRAXIX>
 			     <TELL CR CR
