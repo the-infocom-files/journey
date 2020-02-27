@@ -212,7 +212,7 @@ suspicious shadows that his staff now cast upon the rocks." CR CR>
 \"But these caverns teem with orcs, and we cannot be too careful. Yes,
 now that I look again, I believe Praxix is right.\"" CR CR>
 		      <TELL
-"Just then, in pointed contradition to my elder's conclusions,">)>
+"Just then, in pointed contradiction to my elder's conclusions,">)>
 	       <TELL
 " a man stepped from the shadows, his face glowing in the pale light of
 Praxix' outstretched staff." CR CR>
