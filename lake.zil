@@ -719,7 +719,7 @@ the blanket which covered him heaved slowly with his breath, and for this,
 I was greatly relieved.">
 		<COND (<FSET? ,HERE ,EXAMINED>
 		       <TELL CR CR
-"But as I knelt beside him, my foot inadvertantly caught the end of the
+"But as I knelt beside him, my foot inadvertently caught the end of the
 blanket, and pulled it to the floor. " D ,LAKE-VICTIM " was not only unconscious,
 but his feet and hands had been tightly bound!">)>
 		<TELL

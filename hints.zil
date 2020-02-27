@@ -154,7 +154,7 @@ cave and the pool we had found within it.">)
 			 ;"Didn't hide..."
 			 <TELL
 "If only I could have avoided the strange creatures that had captured " D
-,LAKE-VICTIM ". I may have inadvertantly worsened my chances by allowing
+,LAKE-VICTIM ". I may have inadvertently worsened my chances by allowing
 myself to have been seen by one of them earlier.">)
 			(,NYMPHS-COMING?
 			 <TELL

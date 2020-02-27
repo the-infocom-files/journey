@@ -262,7 +262,7 @@ in my pack which would help.">
 " To my astonishment, I came up literally empty-handed, for as I pulled my
 hand from the pack, I found it to be entirely transparent. And then I
 put two pieces together: the disappearing miner and the pieces of red rock
-that had inadvertantly fallen from his sack." CR CR>
+that had inadvertently fallen from his sack." CR CR>
 		      <TELL
 "Reaching back into the pack, I noticed that some powder had been scraped
 off one of the red rocks. \"A magical reagent!\" I said to myself, proud to have
