@@ -129,7 +129,7 @@ and we decided to stop in a nearby clearing for some lunch.">
 	       <GATE-TO-HIGH-PLAIN>)
 	      (DOWN:REMOVE
 	       <TELL
-"Uncertain of whether we had explored enough of these caverns, we decended
+"Uncertain of whether we had explored enough of these caverns, we descended
 to the junction of the two stairs.">
 	       <MOVE-TO ,STAIR-JUNCTION>)>)>
 
