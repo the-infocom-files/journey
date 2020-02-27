@@ -132,7 +132,7 @@ the stream until we came to the shore of the lake.">
 		      <TELL
 "Praxix, taking out his air and earth essences, cast his elevation spell on "
 D ,ACTION-PRSI ", who rose slowly into the air before us. Still, the onrushing
-waters approached, and I tried desparately to get away. ">
+waters approached, and I tried desperately to get away. ">
 		      <TORRENT-HITS>
 		      <RTRUE>)>)
 	      (PROCEED
