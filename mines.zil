@@ -53,7 +53,7 @@ dissuaded by ">
 		      <TELL 
 "Hurth. \"The principal route through this level heads to
 the north up ahead; there is no point in turning back, lest we
-foresake our purpose.\"">)
+forsake our purpose.\"">)
 		     (T
 		      <TELL
 "Praxix. \"We have no choice, if we are to find the Stone, but to
