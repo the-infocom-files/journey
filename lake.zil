@@ -1266,7 +1266,7 @@ D ,LAKE-VICTIM ". Thankfully, he was conscious.">)
 "As I dove into the water, I was filled with amazement that the torch I was carrying
 had not been extinguished. If anything, it appeared to glow more brightly, and the flame
 became warmer. Soon, I had reached the bottom of the pool, which was covered with
-every sort of putrifying debris you can imagine, and some that you probably couldn't.
+every sort of putrefying debris you can imagine, and some that you probably couldn't.
 Decaying debris lowered the visibility considerably, making it difficult to gauge
 anything much about the pool itself.">)
 			      (T
