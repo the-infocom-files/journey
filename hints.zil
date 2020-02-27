@@ -508,7 +508,7 @@ I must not judge him too harshly.")>
 	(SDESC "Umber")
 	(KBD %<ASCII !\U>)
 	(SOLUTION
-"Why did Praxix refuse Umber's offer to join him? Pride? Stubborness? I
+"Why did Praxix refuse Umber's offer to join him? Pride? Stubbornness? I
 suppose we shall never know.")>
 
 <OBJECT HINT-DUNGEON
