@@ -906,7 +906,7 @@ I will never know what lay along that path.">)
 that we never found a way across. Could that have helped?">)
 			(<NOT <FSET? ,SUNSET-TOWER ,SOLVED>>
 			 <TELL
-"The Sunset Tower: why do I feel that we have missed simething there? Was
+"The Sunset Tower: why do I feel that we have missed something there? Was
 there something hidden there?">)
 			(T
 			 <TELL
