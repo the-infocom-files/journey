@@ -319,7 +319,7 @@ surrounding his acquisition of the mysterious map we purchased.">)
 Webba's meant. Perhaps if we had spoken to him, he would have explained.">)
 	       (T
 		<TELL
-"I don't know how we might have avoided the grizzly scene at the Sunrise
+"I don't know how we might have avoided the grisly scene at the Sunrise
 Mountain. We had no map, and all paths looked similar. Perhaps it was
 unavoidable.">)>
 	 <UPDATE-REMOVE ,ACTION-OBJECT>>
