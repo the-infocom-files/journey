@@ -1279,7 +1279,7 @@ peering with difficulty through the cloudy waters">
 			<COND (<IN? ,NYMPH-STONE ,UL-PIT-BOTTOM>
 			       <TELL
 " But then, at the bottom of the pool, in the midst of the unspeakable filth,
-I caught a glimpse of the the amulet I had taken from the treasury">
+I caught a glimpse of the amulet I had taken from the treasury">
 			       <COND (<G? ,UL-DROPPED 0>
 				      <TELL ", but nothing else">)>
 			       <TELL ".">)
