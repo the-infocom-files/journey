@@ -14,8 +14,8 @@ the shore of a great river." CR CR>
 Mountain and the mysterious tower that stood precariously atop it.">
 	 <MOVE-TO ,RIVER-2>>
 
-<GLOBAL E-INBUF <ITABLE LEN 50>>
-<GLOBAL E-LEXV <ITABLE LEN 100>>
+<GLOBAL E-INBUF <ITABLE ;LEN 50>>
+<GLOBAL E-LEXV <ITABLE ;LEN 100>>
 <GLOBAL E-TEMP <ITABLE 50 0>>
 <GLOBAL E-TEMP-LEN 0>
 
