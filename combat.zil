@@ -313,7 +313,7 @@ appeared that ">
 
 <CONSTANT AGGRESSION-TBL
 	  <TABLE "a decidedly defensive" "a defensive" "a somewhat defensive"
-		 "a balanced" "an aggressive" "an agressive"
+		 "a balanced" "an aggressive" "an aggressive"
 		 "a boldly aggressive" "an all-out aggressive"
 		 "an almost suicidally aggressive">>
 

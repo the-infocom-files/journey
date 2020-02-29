@@ -272,7 +272,7 @@ completely buried his only known route to the outside.">
 			<TELL "only">)
 		       (T
 			<TELL " and">)>
-		 <TELL " his magical paraphenalia - his staff and pouch of powders.">
+		 <TELL " his magical paraphernalia - his staff and pouch of powders.">
 		 <UPDATE-FSET ,HERE ,INVENTORIED>)
 		(DROP
 		 <COND (<EQUAL? ,HERE ,XFER-1-ANTE ,XFER-2-ANTE ,XFER-3-ANTE>

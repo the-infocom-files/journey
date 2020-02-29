@@ -646,7 +646,7 @@ on the sign were the words, \"Rest Easy,\" nothing more." CR CR>
 hypnotic movement, \"and it is getting rather late.\"">)>)>
 
 <CONSTANT COMFORTABLE-SPOT
-" a comfortable spot ouside
+" a comfortable spot outside
 of town to pitch our tents. The offshore breeze kept the air comfortably
 cool, and we were fast asleep within minutes.">
 

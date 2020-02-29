@@ -132,7 +132,7 @@ the stream until we came to the shore of the lake.">
 		      <TELL
 "Praxix, taking out his air and earth essences, cast his elevation spell on "
 D ,ACTION-PRSI ", who rose slowly into the air before us. Still, the onrushing
-waters approached, and I tried desparately to get away. ">
+waters approached, and I tried desperately to get away. ">
 		      <TORRENT-HITS>
 		      <RTRUE>)>)
 	      (PROCEED
@@ -719,7 +719,7 @@ the blanket which covered him heaved slowly with his breath, and for this,
 I was greatly relieved.">
 		<COND (<FSET? ,HERE ,EXAMINED>
 		       <TELL CR CR
-"But as I knelt beside him, my foot inadvertantly caught the end of the
+"But as I knelt beside him, my foot inadvertently caught the end of the
 blanket, and pulled it to the floor. " D ,LAKE-VICTIM " was not only unconscious,
 but his feet and hands had been tightly bound!">)>
 		<TELL
@@ -1266,7 +1266,7 @@ D ,LAKE-VICTIM ". Thankfully, he was conscious.">)
 "As I dove into the water, I was filled with amazement that the torch I was carrying
 had not been extinguished. If anything, it appeared to glow more brightly, and the flame
 became warmer. Soon, I had reached the bottom of the pool, which was covered with
-every sort of putrifying debris you can imagine, and some that you probably couldn't.
+every sort of putrefying debris you can imagine, and some that you probably couldn't.
 Decaying debris lowered the visibility considerably, making it difficult to gauge
 anything much about the pool itself.">)
 			      (T
@@ -1279,7 +1279,7 @@ peering with difficulty through the cloudy waters">
 			<COND (<IN? ,NYMPH-STONE ,UL-PIT-BOTTOM>
 			       <TELL
 " But then, at the bottom of the pool, in the midst of the unspeakable filth,
-I caught a glimpse of the the amulet I had taken from the treasury">
+I caught a glimpse of the amulet I had taken from the treasury">
 			       <COND (<G? ,UL-DROPPED 0>
 				      <TELL ", but nothing else">)>
 			       <TELL ".">)

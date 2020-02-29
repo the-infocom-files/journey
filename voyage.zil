@@ -522,7 +522,7 @@ time for parlor magicians,\" he said mockingly.">
 		 <TELL
 "\"He's not hurt badly,\" he said." CR CR>
 		 <TELL
-"\"How very thoughful you are, " ACT ",\" the demon boomed. \"But do not concern
+"\"How very thoughtful you are, " ACT ",\" the demon boomed. \"But do not concern
 yourself, for I shall not kill your Wizard friend - at least not yet. But now to
 business.\"">)>)>
 

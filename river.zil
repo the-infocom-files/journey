@@ -209,7 +209,7 @@ we reached an outcropping high above a towering falls.">
 		       <TELL CR CR
 "\"It's wonderful!\" I said. \"No, not wonderful.\" Esher replied,
 frowning. \"Dangerous... deadly...\" He had turned pale, almost
-ashen, as he spoke, his eyes tranfixed on the torrent that
+ashen, as he spoke, his eyes transfixed on the torrent that
 roared beneath us.">)>
 		<COND (<AND <IN? ,RAFT ,RIVER-3>
 			    <IN-PARTY? ,BERGON>

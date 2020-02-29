@@ -411,7 +411,7 @@ Mountain,\" he said, \"we should have better luck keeping to the left.\"">)
 		      <TELL
 "It felt like hours had passed while we stood at the fork, looking this way
 and that, not knowing which would lead more quickly to our destination. Perhaps
-it would not matter, yet we feared that time was critial and that our decision
+it would not matter, yet we feared that time was critical and that our decision
 here would be crucial to our success.">)>)
 	      (SCOUT:REMOVE
 	       <COND (<EQUAL? ,ACTOR ,ESHER>

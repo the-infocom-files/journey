@@ -136,7 +136,7 @@ Stout. He'll be back before spring, I expect.\"" CR CR>
 	       <END-OPTION>)
 	      (NO
 	       <TELL
-"\"Let me suggest you ask the captains of the Elventide, over there, and
+"\"Let me suggest you ask the captains of the Elfentide, over there, and
 the South Seas, over there,\" he said, pointing out the two boats.">
 	       <TRAVEL-COMMANDS ,HERE
 				,ELFENTIDE-COMMAND

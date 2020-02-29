@@ -1793,7 +1793,7 @@ trees and out of sight. Discouraged, I returned to our camp.">
 		(EXAMINE:REMOVE
 		 <TELL ACT
 " stopped to admire the surrounding pine and alder. But up ahead, the forest
-appeared darker and more forebidding.">)>)>
+appeared darker and more forbidding.">)>)>
 
 <OBJECT TANGLETREE
 	(LOC TANGLEWOOD)
