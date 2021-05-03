@@ -214,7 +214,7 @@ his feet. ">
 "Exhausted, he started to return when he noticed a strange rock-like substance
 coursing through the cavern walls. \"Well, well,\" he said, pleased at his discovery,
 \"Water essence!\" The cavern continued to shake, and he carefully removed as much of
-the magical rock as he could before it became to dangerous to delay any further. ">)>
+the magical rock as he could before it became too dangerous to delay any further. ">)>
 			<TELL "Carefully, he retreated to the ">
 			<COND (<NOT ,PART-TWO>
 			       <TELL "bottom of the ">)>
