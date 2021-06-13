@@ -52,7 +52,7 @@ see smoke rising from behind a smaller hill that lay in front of us." CR CR>
 "It was a short walk to the next hill; before us sat a ramshackle hut,
 its battered door flapping slowly in the breeze. It was hard to
 believe that one could live in such a place, but the column of smoke
-rising from the chimney convinced us otherwise.">	       
+rising from the chimney convinced us otherwise. ">
 	       <COND (<IN-PARTY? ,MINAR>
 		      <TELL
 "\"The hut was not here last year,\" he said, \"I am at a loss to
